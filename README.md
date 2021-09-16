@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently learning about data science with python language, and also i,m expanding my skills in front end development
 - 🤔 I'm looking for expanding my knowledge in new technologies
-- 📚 I like to read books about management and entrepreneurship, new technologies, comics and I also like to play video games in my spare time
+- 📚 I like to read books about management and entrepreneurship, new technologies, comics and also like to play video games in my spare time
 - 👨‍🍳 Beyond technology, i'm passionate for gastronomy.. my favorite food is hamburguer 🍔😋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassgbm&show_icons=true&theme=algolia)
