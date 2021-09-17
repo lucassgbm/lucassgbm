@@ -1,3 +1,5 @@
+<img align="right" height="100" src="https://viagemeturismo.abril.com.br/wp-content/uploads/2016/12/onlineshopping.gif"/>
+
 ### Hi there 👋
 
 - 🔭 I'm currently learning about data science with python language, and also i,m expanding my skills in front end development
@@ -26,5 +28,4 @@
 
 </div>
 
-<img align="right" height="100" src="https://viagemeturismo.abril.com.br/wp-content/uploads/2016/12/onlineshopping.gif"/>
 
