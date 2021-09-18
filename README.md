@@ -10,7 +10,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassgbm&show_icons=true&theme=algolia)
 
-<hr style="width:100%">
+<hr style="width:100%;height:.1em">
 
 
 <div style="display: inline_block">
