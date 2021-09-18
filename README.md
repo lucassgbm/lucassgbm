@@ -1,17 +1,15 @@
 <img align="right" height="100" src="https://viagemeturismo.abril.com.br/wp-content/uploads/2016/12/onlineshopping.gif"/>
 
-### Hi there 👋
+<h2> Hi there 👋</h2>
+<div style="display: inline_block">
 
 - 🔭 I'm currently learning about data science with python language, and also i,m expanding my skills in front end development
 - 🤔 I'm looking for expanding my knowledge in new technologies
 - 📚 I like to read books about management and entrepreneurship, new technologies, comics and also like to play video games in my spare time
 - 👨‍🍳 Beyond technology, i'm passionate for gastronomy.. my favorite food is hamburguer 🍔😋
-<hr style="width:100%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassgbm&show_icons=true&theme=algolia)
-
-<hr style="width:100%;height:.1em">
-
+</div>
 
 <div style="display: inline_block">
   <br>
