@@ -6,8 +6,12 @@
 - 🤔 I'm looking for expanding my knowledge in new technologies
 - 📚 I like to read books about management and entrepreneurship, new technologies, comics and also like to play video games in my spare time
 - 👨‍🍳 Beyond technology, i'm passionate for gastronomy.. my favorite food is hamburguer 🍔😋
+<hr style="width:100%">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassgbm&show_icons=true&theme=algolia)
+
+<hr style="width:100%">
+
 
 <div style="display: inline_block">
   <br>
