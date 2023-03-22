@@ -4,7 +4,7 @@
 <div style="display: inline_block">
 
 - 🔭 I'm currently learning about data science with python language, and also i,m expanding my skills in frontend development
-- 🤔 I'm looking for expanding my knowledge in new technologies
+- 🤔 I've been looking for expanding my knowledge in new technologies
 - 📚 I like to read books about management and entrepreneurship, new technologies, comics and also like to play video games in my free time
 - 👨‍🍳 Beyond technology, i'm passionate for gastronomy.. my favorite food is hamburguer 🍔😋
 
